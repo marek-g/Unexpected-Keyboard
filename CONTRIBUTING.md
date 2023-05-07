@@ -9,7 +9,7 @@ Android Studio.
 
 Fortunately, there's not many dependencies:
 - OpenJDK 8
-- Android SDK: build tools (minimum `28.0.1`), platform `30`
+- Android SDK: build tools (minimum `30.0.3`), platform `33`
 - Make sure to have the `$ANDROID_HOME` environment variable set.
 
 For Nix users, the right environment can be obtained with `nix-shell ./shell.nix`.
