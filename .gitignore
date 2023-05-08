@@ -1,3 +1,15 @@
+*.iml
+.gradle
+/local.properties
+/.idea
+/.idea/caches/build_file_checksums.ser
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/app/build
+/app/debug
+/app/release
+gradle
 *.keystore
 *.keystore.asc
 _build

@@ -1,3 +1,7 @@
+# Marek's version
+
+- pernament notification to activate the keyboard (copied from Hacker's Keyboard) 
+
 # Unexpected Keyboard
 
 [<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
